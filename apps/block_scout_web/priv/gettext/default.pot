@@ -392,7 +392,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:41
 #, elixir-autogen, elixir-format
 msgid "Chat (#blockscout)"
-msgstr "https://discord.com/invite/DkH6zxCXWz"
+msgstr ""
 
 #: lib/block_scout_web/views/block_view.ex:63
 #, elixir-autogen, elixir-format
@@ -1892,7 +1892,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:39
 #, elixir-autogen, elixir-format
 msgid "Submit an Issue"
-msgstr "https://github.com/pointnetwork/pointnetwork-dashboard/issues"
+msgstr ""
 
 #: lib/block_scout_web/templates/transaction/_emission_reward_tile.html.eex:8
 #: lib/block_scout_web/views/transaction_view.ex:350
@@ -1909,7 +1909,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:30
 #, elixir-autogen, elixir-format
 msgid "Telegram"
-msgstr "https://t.me/pointnetworkchat"
+msgstr ""
 
 #: lib/block_scout_web/templates/layout/_footer.html.eex:63
 #, elixir-autogen, elixir-format
@@ -2407,7 +2407,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:27
 #, elixir-autogen, elixir-format
 msgid "Twitter"
-msgstr "https://twitter.com/pointnetwork"
+msgstr ""
 
 #: lib/block_scout_web/templates/layout/app.html.eex:49
 #, elixir-autogen, elixir-format
@@ -2795,7 +2795,7 @@ msgstr ""
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:82
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:76
-#, elixir-autogen, elixir-format
+#, elixir-autogen, elixir-format, fuzzy
 msgid "Add Contract Libraries"
 msgstr ""
 
@@ -2812,7 +2812,7 @@ msgstr ""
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:30
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:26
-#, elixir-autogen, elixir-format
+#, elixir-autogen, elixir-format, fuzzy
 msgid "EVM version details"
 msgstr ""
 

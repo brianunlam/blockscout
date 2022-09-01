@@ -28,7 +28,7 @@ config :indexer, Indexer.Fetcher.EmptyBlocksSanitizer, batch_size: indexer_empty
 
 config :block_scout_web, :footer,
   chat_link: System.get_env("FOOTER_CHAT_LINK", "https://pointnetwork.io/link/discord"),
-  forum_link: System.get_env("FOOTER_FORUM_LINK", "https://forum.poa.network/c/blockscout"),
+  forum_link: System.get_env("FOOTER_FORUM_LINK", "https://discord.com/invite/DkH6zxCXWz"),
   github_link: System.get_env("FOOTER_GITHUB_LINK", "https://github.com/pointnetwork")
 
 ######################
