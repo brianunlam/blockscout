@@ -392,7 +392,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:41
 #, elixir-autogen, elixir-format
 msgid "Chat (#blockscout)"
-msgstr ""
+msgstr "https://discord.com/invite/DkH6zxCXWz"
 
 #: lib/block_scout_web/views/block_view.ex:63
 #, elixir-autogen, elixir-format
@@ -575,7 +575,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:40
 #, elixir-autogen, elixir-format
 msgid "Contribute"
-msgstr ""
+msgstr "https://github.com/pointnetwork"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:124
 #, elixir-autogen, elixir-format
@@ -1892,7 +1892,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:39
 #, elixir-autogen, elixir-format
 msgid "Submit an Issue"
-msgstr ""
+msgstr "https://github.com/pointnetwork/pointnetwork-dashboard/issues"
 
 #: lib/block_scout_web/templates/transaction/_emission_reward_tile.html.eex:8
 #: lib/block_scout_web/views/transaction_view.ex:350
