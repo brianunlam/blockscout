@@ -391,7 +391,7 @@ msgstr ""
 
 #: lib/block_scout_web/templates/layout/_footer.html.eex:41
 #, elixir-autogen, elixir-format
-msgid "Chat (#blockscout)"
+msgid "Chat"
 msgstr ""
 
 #: lib/block_scout_web/views/block_view.ex:63
@@ -575,7 +575,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:40
 #, elixir-autogen, elixir-format
 msgid "Contribute"
-msgstr "https://github.com/pointnetwork"
+msgstr ""
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:124
 #, elixir-autogen, elixir-format
@@ -1102,7 +1102,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/_footer.html.eex:24
 #, elixir-autogen, elixir-format
 msgid "Github"
-msgstr "https://github.com/pointnetwork"
+msgstr ""
 
 #: lib/block_scout_web/templates/common_components/_rap_pagination_container.html.eex:8
 #, elixir-autogen, elixir-format
